@@ -1,1 +1,1 @@
-see https://github.com/lucaCicc/wavenure-finance-app for readme
+see https://github.com/lucaCicc/money-track-app for readme
