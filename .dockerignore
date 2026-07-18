@@ -1,6 +1,4 @@
 .vscode
 node_modules
 dist
-.yarn
-.yarnrc.yml
-.tool-versions
+mise.toml

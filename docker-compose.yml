@@ -1,4 +1,4 @@
-# see https://www.prisma.io/docs/guides/using-prisma-in-docker
+cd ba# see https://www.prisma.io/docs/guides/using-prisma-in-docker
 
 services:
   backend:
@@ -18,7 +18,7 @@ services:
       - prisma-network
 
   db:
-    image: postgres:latest
+    image: postgres:17
     container_name: postgres_db
     restart: always
     tty: true
